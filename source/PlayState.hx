@@ -1331,7 +1331,7 @@ class PlayState extends MusicBeatState
 			startCountdown();
 		}
 		RecalculateRating();
-
+}
 	  public function addShaderToCamera(cam:String,effect:ShaderEffect){//пов
 	  
 	  
